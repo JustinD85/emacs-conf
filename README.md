@@ -1,2 +1,2 @@
 # emacs-conf
-my conf for the emacs ecosystem
+my conf for the thermonuclear word processor
